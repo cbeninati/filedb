@@ -1,8 +1,8 @@
 {
-  "name": "rabblerouser/filedb",
-  "description": "Rabble+Rouser filesystem database.",
-  "version": "0.0.3",
-  "keywords": ["rabblerouser", "filesystem", "database"],
+  "name": "cbeninati/filedb",
+  "description": "Filesystem database.",
+  "version": "0.0.4",
+  "keywords": ["filesystem", "database"],
   "require": {
     "php": ">=5.5.9",
     "league/flysystem": "^1.0"
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RabbleRouser\\FileDB\\": "src/"
+      "CBeninati\\FileDB\\": "src/"
     }
   }
 }

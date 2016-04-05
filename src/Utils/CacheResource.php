@@ -1,6 +1,6 @@
 <?php
 
-namespace RabbleRouser\FileDB\Utils;
+namespace CBeninati\FileDB\Utils;
 
 use League\Flysystem\Adapter\Local;
 use League\Flysystem\Filesystem;
